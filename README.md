@@ -45,8 +45,8 @@ Make sure Ollama is running before executing the application.
 rag/
 │
 ├── handbook.md
-├── chunking.py
-├── main.py
+├── 
+├── rag.py
 ├── pyproject.toml
 ├── uv.lock
 └── README.md
@@ -59,7 +59,7 @@ rag/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Simple-RAG-System.git
+git clone https://github.com/AR-200204 /Simple-RAG-System.git
 cd Simple-RAG-System
 ```
 
@@ -139,6 +139,6 @@ More features will be added as the project develops.
 
 ---
 
-**Author:** YOUR_NAME
+**Author:** Aritha Randiw
 
 
