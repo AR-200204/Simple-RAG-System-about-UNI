@@ -1,0 +1,19 @@
+The university opens its main library at 8:00 AM from Monday to Friday. Students can use the library to read books, complete assignments, and access research materials. The library closes at 6:00 PM on normal working days. During examination periods, opening hours may be extended depending on university requirements.
+
+Students must bring their identification cards when entering university buildings. The identification card contains the student's name, registration number, photograph, and academic department. If a student loses their identification card, they must inform the administration office and request a replacement. A replacement card may require a small payment.
+
+The university cafeteria provides breakfast, lunch, snacks, and beverages at affordable prices. It usually opens at 7:30 AM and closes at 5:00 PM. Students can purchase meals using cash or supported digital payment methods. The cafeteria management is responsible for maintaining food quality, cleanliness, and hygiene standards.
+
+Every student is expected to check the university notice board regularly. Important announcements about examinations, lecture schedules, registration deadlines, and university events are published there. Some departments also share announcements through official email accounts and online learning platforms. Students are responsible for staying informed about important academic updates.
+
+The university computer laboratory contains desktop computers, printers, scanners, and internet facilities. Students can use these resources for programming, research, presentations, and other academic activities. Laboratory access may be restricted during scheduled practical sessions. Students must not install unauthorized software or change computer settings without permission.
+
+The academic year is divided into two semesters. Each semester includes lectures, practical sessions, assignments, and examinations. Students receive an academic timetable before the beginning of each semester. The timetable contains course names, lecture times, classroom locations, and lecturer information. Any changes to the timetable are communicated through official university channels.
+
+Students who want to organize an event must obtain approval from the relevant university authority. The application should include the event name, proposed date, location, expected number of participants, and organizing committee details. Events involving external guests may require additional permission. Organizers are responsible for maintaining safety and cleanliness during the event.
+
+The university provides several study spaces for individual and group learning. Students can use these areas to prepare assignments, discuss research topics, and work on group projects. Some study rooms require advance reservations through the administration office. Students should avoid unnecessary noise and respect others who are using the facilities.
+
+Students can request official academic documents through the university administration office. These documents may include student confirmation letters, examination result sheets, and academic transcripts. The processing time depends on the type of document requested. Students should provide their registration numbers and relevant identification details when submitting an application.
+
+The university encourages students to develop practical skills outside their regular academic activities. Students can participate in workshops, seminars, competitions, research programs, and volunteer activities. These opportunities help students improve communication, teamwork, leadership, and technical abilities. Information about upcoming activities is usually shared through department announcements and university communication channels.
